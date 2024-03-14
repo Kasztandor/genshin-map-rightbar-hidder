@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Genshin Impact Map Hide Right Pannel",
+  "version": "1.0",
+
+  "description": "Addon that adding button to hide right pannel on genshin-impact-map.appsample.com.",
+
+  "icons": {
+    "48": "img/logo.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://genshin-impact-map.appsample.com/"],
+      "js": ["script.js"]
+    }
+  ]
+
+}
