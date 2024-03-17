@@ -1,9 +1,5 @@
-# wbijam-next-button
+# genshin-map-rightbar-hidder
 
-Adding better "Next" button with polish website with anime translations.
+This web addon adds gensin impact online map rightbar hide button.
 
-Website with anime:
-https://wbijam.pl/
-
-Link to addon in mozilla store:
-https://addons.mozilla.org/en-US/firefox/addon/wbijam-przycisk-nast%C4%99pny/
+https://addons.mozilla.org/pl/firefox/addon/genshin-panel-hider/
